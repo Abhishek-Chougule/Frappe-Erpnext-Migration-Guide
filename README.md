@@ -22,7 +22,7 @@ Your branch is up to date with 'upstream/version-13'.
 nothing to commit, working tree clean
 bash
 Copy code
-cd /opt/bench/frappe-bench/apps/frappe
+```cd /opt/bench/frappe-bench/apps/frappe```
 git status
 Output should be:
 
